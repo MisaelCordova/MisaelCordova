@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Today I'm a student.
+- 🌱 I’m currently learning React
+-  📔Studying Full Stack Web Development
 <div align="left">
   <a href="https://github.com/MisaelCordova">
   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=MisaelCordova&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
