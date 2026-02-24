@@ -1,5 +1,5 @@
 ### Hi I'm Misael Córdova 👋
-<p> Desenvolvedor full stack </p>
+<p>  </p>
 <!--
 **MisaelCordova/MisaelCordova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -10,6 +10,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3> 👨‍💻 Sobre mim</h3>
+
+ - 🎓 &nbsp; Bacharel em Ciência da Computação.
+ - 💻 &nbsp; Desenvolvedor full stack
+
+---
+
+## Habilidades Técnicas
+
 <p align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="devicon-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
@@ -24,10 +34,6 @@ Here are some ideas to get you started:
   <img align="center" alt="devicon-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
----
+  
 
-## Sobre Mim
-    Desenvolvedor full stack com sólida experiência no front end, buscando aprimorar conhecimentos e habilidades no back end e mobile.
 
-## Formação Acadêmica
-- **Bacharelado em Ciência da Computação** – Fundação Educacional de Criciúma - UNESC 
