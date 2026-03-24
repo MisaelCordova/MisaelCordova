@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <h3> 👨‍💻 Sobre mim</h3>
 
  - 🎓 &nbsp; Bacharel em Ciência da Computação.
- - 💻 &nbsp; Desenvolvedor full stack
+ - 💻 &nbsp; Desenvolvedor FullStack
 
 ---
 
