@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  - 💻 &nbsp; Desenvolvedor FullStack
 
 ---
-[[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MisaelCordova&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=MisaelCordova&langs_count=4&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MisaelCordova&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=MisaelCordova&langs_count=4&theme=dark)
 ## Habilidades Técnicas
 
 <p align="center">
