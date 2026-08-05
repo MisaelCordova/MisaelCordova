@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  - 💻 &nbsp; Desenvolvedor FullStack
 
 ---
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=misaelcordova)](https://github.com/stats-organization/github-stats-extended)
 ## Habilidades Técnicas
 
 <p align="center">
